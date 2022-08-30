@@ -1,6 +1,14 @@
 ### Hi there 👋
-
-[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white]
+<div align=center>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue"/> -->
 <!--
 **swh256/swh256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
